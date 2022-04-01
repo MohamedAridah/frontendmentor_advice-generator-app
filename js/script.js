@@ -1,5 +1,5 @@
 window.addEventListener("DOMContentLoaded", () => {
-  // fetchAdvice();
+  fetchAdvice();
 });
 
 /* API Link */
