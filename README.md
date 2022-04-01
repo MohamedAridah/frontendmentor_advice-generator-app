@@ -3,18 +3,15 @@
 <div align="center">
  <h1>Advice generator app</h1>
  <h3>
-    <!-- Github Pages Live -->
     <a href="https://mohamedaridah.github.io/frontendmentor_advice-generator-app">
       Live
     </a>
     <span>&nbsp;|&nbsp;</span>
-    <!-- Frontend Mentor Live solution -->
-    <a href="" title="Check My Solution on Frontend Mentor">
+    <a href="https://www.frontendmentor.io/solutions/advice-generator-app-ryMT7TEXq" title="Check My Solution on Frontend Mentor">
       Solution
     </a>
     <span>&nbsp;|&nbsp;</span>
-    <!-- Frontend Mentor Challenge Link -->
-    <a href="" title="Original Frontend Mentor Challenge Link">
+    <a href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db" title="Original Frontend Mentor Challenge Link">
       Challenge
     </a>
   </h3>
